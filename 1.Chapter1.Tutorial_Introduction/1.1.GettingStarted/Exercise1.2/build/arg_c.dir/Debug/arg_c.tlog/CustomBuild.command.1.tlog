@@ -1,0 +1,10 @@
+^C:\USERS\NICOL\MY_SELF_LEARNING_THE_C_PROGRAMMING_LANGUAGE\1.CHAPTER1.TUTORIAL_INTRODUCTION\1.1.GETTINGSTARTED\EXERCISE1.2\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.1.GettingStarted/Exercise1.2 -BC:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.1.GettingStarted/Exercise1.2/build --check-stamp-file C:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.1.GettingStarted/Exercise1.2/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

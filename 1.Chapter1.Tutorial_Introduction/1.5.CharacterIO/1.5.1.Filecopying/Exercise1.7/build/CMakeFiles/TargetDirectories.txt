@@ -1,0 +1,3 @@
+C:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.5.CharacterIO/1.5.1.Filecopying/Exercise1.7/build/CMakeFiles/Topic1.5.dir
+C:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.5.CharacterIO/1.5.1.Filecopying/Exercise1.7/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.5.CharacterIO/1.5.1.Filecopying/Exercise1.7/build/CMakeFiles/ZERO_CHECK.dir

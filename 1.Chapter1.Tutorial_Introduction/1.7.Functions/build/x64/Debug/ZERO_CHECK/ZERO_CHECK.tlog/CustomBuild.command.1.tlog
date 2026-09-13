@@ -1,0 +1,10 @@
+^C:\USERS\NICOL\MY_C_PROGRAMMING_LANGUAGE\1.CHAPTER1.TUTORIAL_INTRODUCTION\1.7.FUNCTIONS\BUILD\CMAKEFILES\9FCD0AD8FF5BB6AB78A6A41ACDCBDC4E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nicol/My_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.7.Functions -BC:/Users/nicol/My_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.7.Functions/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nicol/My_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.7.Functions/build/Topic1.7.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

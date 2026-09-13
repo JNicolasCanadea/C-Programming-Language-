@@ -1,0 +1,10 @@
+^C:\USERS\NICOL\MY_SELF_LEARNING_THE_C_PROGRAMMING_LANGUAGE\1.CHAPTER1.TUTORIAL_INTRODUCTION\1.5.CHARACTERIO\1.5.3.LINECOUNTING\EXERCISE1.8\BUILD\CMAKEFILES\33245547E01D7A2E6BFBE6DD993CFBE6\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.5.CharacterIO/1.5.3.LineCounting/Exercise1.8 -BC:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.5.CharacterIO/1.5.3.LineCounting/Exercise1.8/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nicol/My_self_learning_The_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.5.CharacterIO/1.5.3.LineCounting/Exercise1.8/build/Topic1.5.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

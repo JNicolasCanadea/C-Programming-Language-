@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nicol\My_C_Programming_Language\1.Chapter1.Tutorial_Introduction\1.7.Functions\Exercise1.15.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nicol\My_C_Programming_Language\1.Chapter1.Tutorial_Introduction\1.7.Functions\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AF05DD87-E9FB-313C-99CF-01844F66E0A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

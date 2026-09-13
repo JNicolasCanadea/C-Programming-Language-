@@ -1,0 +1,10 @@
+^C:\USERS\NICOL\MY_C_PROGRAMMING_LANGUAGE\1.CHAPTER1.TUTORIAL_INTRODUCTION\1.9.CHARARRAYS\EXERCISE1.16\BUILD\CMAKEFILES\0284752C75557882E598CB36785433FD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nicol/My_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.9.CharArrays/Exercise1.16 -BC:/Users/nicol/My_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.9.CharArrays/Exercise1.16/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nicol/My_C_Programming_Language/1.Chapter1.Tutorial_Introduction/1.9.CharArrays/Exercise1.16/build/Topic1.9.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
