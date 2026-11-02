@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nicol\C_git\C-Programming-Language-\Chapter5.PointersArrays\PtFuncArgs\Exercise5.1\Exercise5.1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nicol\C_git\C-Programming-Language-\Chapter5.PointersArrays\PtFuncArgs\Exercise5.1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{864143C1-E918-3269-8D71-09727F1DCA68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

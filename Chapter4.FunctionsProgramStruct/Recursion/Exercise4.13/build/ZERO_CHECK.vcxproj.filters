@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nicol\C_git\C-Programming-Language-\Chapter4.FunctionsProgramStruct\Recursion\Exercise4.13\build\CMakeFiles\a63d9767b32308a3049e90a8f4823971\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0E236082-E32C-3679-B480-0B7E6EC524DB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

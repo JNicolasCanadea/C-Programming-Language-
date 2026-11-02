@@ -1,0 +1,10 @@
+^C:\USERS\NICOL\C_GIT\C-PROGRAMMING-LANGUAGE-\CHAPTER4.FUNCTIONSPROGRAMSTRUCT\EXTVAR\EXERCISE4.4\BUILD\CMAKEFILES\E4EC656FDA8AA6293903146DA0A21AD7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nicol/C_git/C-Programming-Language-/Chapter4.FunctionsProgramStruct/ExtVar/Exercise4.4 -BC:/Users/nicol/C_git/C-Programming-Language-/Chapter4.FunctionsProgramStruct/ExtVar/Exercise4.4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nicol/C_git/C-Programming-Language-/Chapter4.FunctionsProgramStruct/ExtVar/Exercise4.4/build/Topic4.3.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
